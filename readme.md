@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 # Catchpoint Provider
 
 With the Catchpoint Terraform provider, users can manage Web, API, Transaction, DNS, SSL, BGP, Traceroute, and Ping tests with minimum configurations. To inherit sections such as Scheduling, Advanced Settings, Insights, and Alerts, simply omit the corresponding blocks.
